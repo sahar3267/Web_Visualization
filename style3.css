@@ -1,0 +1,117 @@
+@media (max-width: 480px) {
+    #comp{
+      background-color:white;
+      margin-left: 50px;
+      margin-right: 100px;
+      padding: 10px 10px 10px 10px;
+  }
+  .container{
+    margin-left: 0px;
+  }
+  h3{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    text-align: left;
+    border-bottom: 2px solid;
+    border-bottom-color: black;
+    margin-left:16px;
+    margin-right:35px;
+  }
+  #comppic1{
+      right:0px;
+  }
+  .pic{
+    width:50%;
+  }
+  
+  .vizbox{
+    width:408px;
+    margin-left:27px;
+    text-align: center;
+    float: none;
+  }
+  
+  .summary{
+    margin-bottom:50px;
+    width:414px;
+  }
+  
+  .pic{
+    width:100%;
+  }
+  .co{
+    width:100%;
+  }
+  
+  h2{
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    text-align: left;
+    border-bottom: 2px solid;
+    border-bottom-color: black;
+    margin-right:34px;
+    margin-left:30px;
+  }
+  
+  #graph{
+    background-color: white;
+    width: 100%;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 20px 20px 20px 20px;
+    align-content: center;
+    }
+    #graph img {
+      width: 100%;
+      height: auto;
+      display: block;
+      margin: 0px 0px 0px 0%;
+  }
+  #imagetext{
+    color:black;
+    font-size: 12px;
+    display: block;
+    width: 95%;
+    height: auto;
+    text-align: justify;
+    margin: 0px 0px 0px 0%;
+  }
+  
+  h1{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    text-align: left;
+    border-bottom: 2px solid;
+    border-bottom-color: black;
+  }
+  .navbar li {
+    padding: 0px;
+  }
+  .navbar ul {
+    padding: 0px;
+  }
+  
+  .post {
+    margin-right: 30px;
+    margin-left: 30px;
+  }
+  
+  #nav-select {
+    visibility: visible;
+  }
+  
+  .navbar-header{
+    background-color: aqua;
+  }
+  
+  .dropdown-toggle{
+    background-color: lightgray;
+  }
+  }
